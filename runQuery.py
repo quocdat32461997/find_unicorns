@@ -1,6 +1,11 @@
 from read import *
 from pagerank import *
 import sys
+import subprocess
+
+packages = ['networkx','lxml','xlrd', 'numpy', 'pandas']
+for package in packages:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
 def main(query, dataFile):
 
