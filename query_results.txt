@@ -1,0 +1,56 @@
+Rank:1
+Doc:187
+Title:What's the Cannabis Industry Missing? Engineers
+Link:https://tech.co/news/edn-grow-the-greenest-green-2014-12
+Score:1.0
+QueryVec:[0. 1.]
+DocVec[0. 1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:2
+Doc:186
+Title:clippPR Joins 500 Startups Batch 8 Accelerator
+Link:https://tech.co/news/primeloop-joins-500-startups-batch-8-accelerator-2014-02
+Score:1.0
+QueryVec:[0. 1.]
+DocVec[0. 1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:3
+Doc:171
+Title:Credibility is Key for Portfolium's Partnerships
+Link:https://tech.co/news/portfolium-partnerships-evonexus-2015-01
+Score:1.0
+QueryVec:[0. 1.]
+DocVec[0. 1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:4
+Doc:156
+Title:Surf, Sun, and Startups - San Diego is Becoming a Major Player: Part 1
+Link:https://tech.co/news/san-diego-growing-startup-scene-2014-02
+Score:1.0
+QueryVec:[0. 1.]
+DocVec[0. 1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:5
+Doc:140
+Title:Eureka Park at CES 2018 Will Shine the Light on Emerging Startups
+Link:https://tech.co/news/eureka-park-ces-2018-shine-on-emerging-startups-2018-01
+Score:1.0
+QueryVec:[0. 1.]
+DocVec[0. 1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:6
+Doc:45
+Title:More Than 50 E-Scooters Pulled From Portland River
+Link:https://tech.co/news/e-scooters-pulled-portland-river-2019-07
+Score:1.0
+QueryVec:[0. 1.]
+DocVec[0. 1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:7
+Doc:0
+Title:5 Virginia Startups at Collision 2018 That Should Be on Your Radar
+Link:https://tech.co/news/virginia-startups-collission-radar-2018-04
+Score:1.0
+QueryVec:[0. 1.]
+DocVec[0. 1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
