@@ -62,6 +62,7 @@ def readData(fileName):
     #print(data.shape)
     rows = data.shape[0]
     columns = data.shape[1]
+    print(data.shape)
     #print(sent_tokenize(data["Text"][1]))
     #print(word_tokenize(sent_tokenize(data["Text"][1])[2]))
     return data, rows, columns

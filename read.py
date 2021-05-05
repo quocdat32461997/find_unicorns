@@ -13,11 +13,13 @@ import operator
 def readData(fileName):
 
     data = pd.read_excel(fileName)
+    #data = pd.read_csv(fileName)
 
     #print(data)
     #print(data.shape)
     rows = data.shape[0]
     columns = data.shape[1]
+    print(data.shape)
     #print(sent_tokenize(data["Text"][1]))
     #print(word_tokenize(sent_tokenize(data["Text"][1])[2]))
     return data, rows, columns
@@ -56,6 +58,7 @@ def tokenizer(data: DataFrame, rows, columns):
         docNo = i
         tokens1 = word_tokenize(data["Title"][i])
         tokens = list()
+        #print(data["Text"][i])
         sentenceList = sent_tokenize(data["Text"][i])
         for sentence in sentenceList:
             tmp = word_tokenize(sentence)
