@@ -1,56 +1,336 @@
 Rank:1
-Doc:187
-Title:What's the Cannabis Industry Missing? Engineers
-Link:https://tech.co/news/edn-grow-the-greenest-green-2014-12
+Doc:2203
+Title:The Importance of Investing in IoT for Your Startup
+Link:https://tech.co/news/internet-of-things-benefits-entrepreneurs-2016-05
 Score:1.0
-QueryVec:[0. 1.]
-DocVec[0. 1.]
+QueryVec:[1.]
+DocVec[1.]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Rank:2
-Doc:186
-Title:clippPR Joins 500 Startups Batch 8 Accelerator
-Link:https://tech.co/news/primeloop-joins-500-startups-batch-8-accelerator-2014-02
+Doc:2097
+Title:The Internet of Things Is Perfect for Company Security
+Link:https://tech.co/news/10-hvac-startups-keeping-cool-summer-2016-06
 Score:1.0
-QueryVec:[0. 1.]
-DocVec[0. 1.]
+QueryVec:[1.]
+DocVec[1.]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Rank:3
-Doc:171
-Title:Credibility is Key for Portfolium's Partnerships
-Link:https://tech.co/news/portfolium-partnerships-evonexus-2015-01
+Doc:2093
+Title:4 Ways Technology Can Better Your Home Security
+Link:https://tech.co/news/turn-off-notifications-facebook-live-videos-2016-05
 Score:1.0
-QueryVec:[0. 1.]
-DocVec[0. 1.]
+QueryVec:[1.]
+DocVec[1.]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Rank:4
-Doc:156
-Title:Surf, Sun, and Startups - San Diego is Becoming a Major Player: Part 1
-Link:https://tech.co/news/san-diego-growing-startup-scene-2014-02
+Doc:2092
+Title:The Internet of Things Is a Necessity for Your Ecommerce Startup
+Link:https://tech.co/news/heres-email-marketers-boosting-engagement-2016-07
 Score:1.0
-QueryVec:[0. 1.]
-DocVec[0. 1.]
+QueryVec:[1.]
+DocVec[1.]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Rank:5
-Doc:140
-Title:Eureka Park at CES 2018 Will Shine the Light on Emerging Startups
-Link:https://tech.co/news/eureka-park-ces-2018-shine-on-emerging-startups-2018-01
+Doc:2088
+Title:IoT Technology Should Be Standard for All Startups
+Link:https://tech.co/news/iot-perfect-company-security-2016-07
 Score:1.0
-QueryVec:[0. 1.]
-DocVec[0. 1.]
+QueryVec:[1.]
+DocVec[1.]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Rank:6
-Doc:45
-Title:More Than 50 E-Scooters Pulled From Portland River
-Link:https://tech.co/news/e-scooters-pulled-portland-river-2019-07
+Doc:2033
+Title:Gadget Guide to Connecting With Your Pets
+Link:https://tech.co/news/10-pet-startups-care-furry-friends-2016-07
 Score:1.0
-QueryVec:[0. 1.]
-DocVec[0. 1.]
+QueryVec:[1.]
+DocVec[1.]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Rank:7
-Doc:0
-Title:5 Virginia Startups at Collision 2018 That Should Be on Your Radar
-Link:https://tech.co/news/virginia-startups-collission-radar-2018-04
+Doc:2026
+Title:How the Internet of Things Is Redefining Healthcare
+Link:https://tech.co/news/internet-of-things-patient-care-healthcare-2016-03
 Score:1.0
-QueryVec:[0. 1.]
-DocVec[0. 1.]
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:8
+Doc:1994
+Title:Essential Things to Know Before Launching an IoT Product
+Link:https://tech.co/news/adobe-summit-adobe-smart-bag-2016-04
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:9
+Doc:1864
+Title:How the Biggest Tech Trends Are Evolving in 2017
+Link:https://tech.co/news/augmented-reality-tech-trends-2016-09
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:10
+Doc:1860
+Title:CUJO and In&motion Take Home Startup Night Prize at CES 2017
+Link:https://tech.co/news/eureka-park-startups-startup-night-ces-2016-12
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:11
+Doc:1812
+Title:Internet Providers Could Be The Answer To Better IoT Security
+Link:https://tech.co/news/guide-prepare-internet-of-things-2016-01
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:12
+Doc:1722
+Title:Ask Techstars: Mistakes to Avoid When Applying to an Accelerator
+Link:https://tech.co/news/quality-demo-product-video-2016-05
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:13
+Doc:1707
+Title:4 Simple Ways to Protect your Smart Home from Hackers
+Link:https://tech.co/news/risk-smart-home-adoption-2016-12
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:14
+Doc:1699
+Title:How to Focus on Delivering Core Value for Startup Growth
+Link:https://tech.co/news/10-quotes-tech-leaders-changed-lives-2015-11
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:15
+Doc:1679
+Title:3 IoT Startup Trends Happening in Dublin
+Link:https://tech.co/news/6-security-areas-fintech-needs-to-patch-this-year-2017-03
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:16
+Doc:1553
+Title:5 Reasons Why You Should Start Early To Be A Successful Entrepreneur
+Link:https://tech.co/news/steps-implement-new-technology-plan-2016-07
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:17
+Doc:1516
+Title:Survey: Security Breaches Affect Almost Half of U.S. Firms Using IoT
+Link:https://tech.co/news/security-thought-leader-docusign-breach-yet-another-wakeup-call-2017-05
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:18
+Doc:1474
+Title:3 Cybersecurity Practices That Small Businesses Need to Consider Now
+Link:https://tech.co/news/nanotech-coating-fingerprints-disappear-2017-02
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:19
+Doc:1472
+Title:4 Ways 5G Mobile Technology Will Improve the Customer Experience
+Link:https://tech.co/news/startup-mobile-app-doing-2016-08
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:20
+Doc:1434
+Title:AI Startups: Here's How to Apply to TechCode's AI+ Accelerator Today
+Link:https://tech.co/news/techcode-ai-accelerator-2016-11
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:21
+Doc:1364
+Title:5 Tech Trends Startups Are Adopting In 2017
+Link:https://tech.co/news/workspaces-nuture-productivity-2017-04
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:22
+Doc:1329
+Title:Every Major DC Accelerator, Listed
+Link:https://tech.co/news/virginia-bunker-labs-accelerator-veteran-entrepreneurs-2016-01
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:23
+Doc:1235
+Title:How to Get Your Smart Home Started on the Right Foot
+Link:https://tech.co/news/raise-child-run-business-couplepreneur-2017-09
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:24
+Doc:1222
+Title:4 Gadgets Impacting Health and Wellness
+Link:https://tech.co/news/business-ready-wearables-wave-2017-03
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:25
+Doc:1209
+Title:How the Internet of Things Is Shaping Our Future
+Link:https://tech.co/news/internet-of-things-enterprise-devices-2014-10
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:26
+Doc:1197
+Title:10 Web Development Trends to Watch Out For in 2017
+Link:https://tech.co/news/8-design-trends-watch-2017-2017-03
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:27
+Doc:1178
+Title:Smart Homes: What Are the Security Risks?
+Link:https://tech.co/news/smart-home-industry-before-mainsteam-2015-12
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:28
+Doc:1164
+Title:The RNC Is Ready to Take on Cyber Attackers
+Link:https://tech.co/news/360fly-slams-trump-new-ad-offensive-2016-06
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:29
+Doc:1145
+Title:Why Security Is Essential for the Growth of the Smart Home Industry
+Link:https://tech.co/news/smart-homes-security-risks-2016-05
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:30
+Doc:1118
+Title:It's Time to Buy a Wireless Spy Camera to Protect Your Home
+Link:https://tech.co/news/wyzecam-security-camera-review-2017-11
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:31
+Doc:1064
+Title:What Can Startups Do with IoT?
+Link:https://tech.co/news/iot-great-equalizer-startups-2016-08
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:32
+Doc:1052
+Title:How Technology is Transforming the Conference Experience
+Link:https://tech.co/news/smart-home-gadgets-cost-2017-02
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:33
+Doc:1033
+Title:How the Internet of Things Has Impacted Small Businesses
+Link:https://tech.co/news/elevators-joined-internet-things-2017-09
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:34
+Doc:1001
+Title:TechCo's 2018 Predictions for the Future of Tech
+Link:https://tech.co/news/ai-replaced-big-data-buzzword-for-now-2017-12
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:35
+Doc:673
+Title:This Company is Completely Rethinking Network Security | Tech.co
+Link:https://tech.co/news/big-ideas-fix-internet-2019-03
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:36
+Doc:672
+Title:Amazon Echo Dot Now Available to All for Only $50
+Link:https://tech.co/news/amazon-echo-obey-anymore-2016-09
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:37
+Doc:611
+Title:3 Cyber Security Predictions for 2018
+Link:https://tech.co/news/signs-iot-already-part-city-life-2017-11
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:38
+Doc:607
+Title:The 5 Biggest Hardware Updates From the Made With Google Event
+Link:https://tech.co/news/ifttt-now-integrates-third-party-apps-2016-08
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:39
+Doc:418
+Title:The 15 Most Popular Unicorn Startups Per Industry
+Link:https://tech.co/news/tips-to-grow-your-e-commerce-business-with-email-marketing-2016-06
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:40
+Doc:320
+Title:Detroit Hosts Largest Inaugural Startup Week in History
+Link:https://tech.co/news/grow-detroit-trying-exactly-2015-09
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:41
+Doc:269
+Title:15 Entrepreneurs on What It’s Like to Be a Startup in Boston
+Link:https://tech.co/news/entrepreneurs-like-startup-seattle-2016-11
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rank:42
+Doc:35
+Title:10 Innovative UK-Based Tech Startups Making Moves
+Link:https://tech.co/news/highest-valued-unicorns-funding-rounds-2017-08
+Score:1.0
+QueryVec:[1.]
+DocVec[1.]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
