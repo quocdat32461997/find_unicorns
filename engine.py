@@ -17,7 +17,7 @@ class Engine(object):
             self.bing_api = keys['bing']['api']
             self.bing_sub_key = keys['bing']['subscription_key']
 
-        self.data, self.rows, self.columns = readData('10k.xlsx')
+        self.data, self.rows, self.columns = readData('finaldata.xlsx')
         with open('tokDict_10k.pkl', 'rb') as file:
             self.tokenDict = pickle.load(file)
         with open('tokPostings_10k.pkl', 'rb') as file:

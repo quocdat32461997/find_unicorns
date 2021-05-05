@@ -11,7 +11,7 @@ def create_layout():
     return [
         [sg.Text('Next Unicorn Startup?', pad = ((550,50), (0,0)), size = (30, 1), font = ('helvetica', 40), justification = 'center', text_color = 'yellow', auto_size_text = True)],
         [
-            sg.Text('You can search unicorns here.', font = ('helvetica', 20)),
+            sg.Text('Search here:', font = ('helvetica', 20)),
             sg.Input(key = '-IN-', size = (30, 1), font = ('helvetica', 20)),
             sg.Button('Search', key = '-SEARCH-BUTTON-', font = ('helvetica', 20)),
             sg.Button('Vector-Space', key = '-VECTOR-SPACE-BUTTON-', font = ('helvetica', 20), auto_size_button = True),
