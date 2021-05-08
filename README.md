@@ -14,6 +14,14 @@
 ---
 
 ## Demo
+To run the program, type:
+```
+#Install dependencies
+pip3 install -r requirements.txt
+
+#Run search-engine
+python3 front_end.py
+```
 ![](./demo.png)
 
 ## Contributors:
