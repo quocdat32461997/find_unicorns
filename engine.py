@@ -5,11 +5,11 @@ import json
 import requests
 import pickle
 
-from read import *
-from pagerank import *
+from index.read import *
+from index.pagerank import *
 
 class Engine(object):
-    def __init__(self):
+    def __init__(self, data, vocabs, postings):
         with open('api_keys.json') as file:
             keys = json.load(file)
             self.google_api = keys['google']['api']
@@ -17,10 +17,10 @@ class Engine(object):
             self.bing_api = keys['bing']['api']
             self.bing_sub_key = keys['bing']['subscription_key']
 
-        self.data, self.rows, self.columns = readData('finaldata.xlsx')
-        with open('tokDict_10k.pkl', 'rb') as file:
+        self.data, self.rows, self.columns = readData(data)
+        with open(vocabs, 'rb') as file:
             self.tokenDict = pickle.load(file)
-        with open('tokPostings_10k.pkl', 'rb') as file:
+        with open(postings, 'rb') as file:
             self.tokPostings = pickle.load(file)
 
         self.hubs, self.authority = HITS(self.data, self.rows)

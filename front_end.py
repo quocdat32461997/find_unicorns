@@ -46,7 +46,9 @@ def main():
     layout = create_layout()
 
     # initialize search engine
-    engine = Engine()
+    engine = Engine(data = './dataset/10k/finaldata.xlsx',
+            vocabs = './dataset/10k/tokDict_10k.pkl',
+            postings = './dataset/10k/tokPostings_10k.pkl')
 
     # create window
     window = sg.Window(title = 'Find Unicorn', layout = layout, size = (1900, 2048), auto_size_text = True)
